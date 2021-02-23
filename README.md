@@ -1,5 +1,6 @@
+## Olá
+. Gosto muito da área de desenvolvimento, mas tenho que estudar bastante do assunto, dou minhas cabeçadas, não pareço com que alguns parecem que tem isso na veia… rsrsrs <br/>
 
-. Gosto muito da área de desenvolvimento, mas tenho que estudar bastante do assunto, dou minhas cabeçadas, não pareço com alguns que parece que tem isso na veia…rsrsrs <br/>
 . Desde 2004 trabalho na FEAGRI - Faculdade de Engenharia Agrícola <br/>
 . Estou estudando ReactJS e ReactNative <br/>
 . Tenho tentado colaborar em grupos com Ionic/Angular <br/>
