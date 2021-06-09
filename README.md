@@ -15,6 +15,7 @@
 
 . Vc me encontra:<br/>
 <p>
-  <img src="https://img.shields.io/badge/-LinkedIn-blue" />(https://www.linkedin.com/in/jsfernando)
+  [LinkedIn](https://www.linkedin.com/in/jsfernando) <br/>
+  [twitter](https://twitter.com/jsilvafernando)
 </p>
-no twitter (@jsilvafernando), no linkedIn @jsfernando e no gmail jsfernando@ <br/>
+
