@@ -1,12 +1,20 @@
 ## Olá
-. Gosto muito da área de desenvolvimento, mas tenho que estudar bastante e praticar bastante tbém pra desenvolver... rsrsrs <br/>
+. Gosto muito da área de desenvolvimento, creio ser a única área na informática que me identifico <br/>
 
-. Desde 2004 trabalho na FEAGRI - Faculdade de Engenharia Agrícola <br/>
+. Comecei minha carreira como professor de colégio técnico em informátia em 1996 <br/>
+. ...e depois como programador clipper em 1999 e passei por Visual Basic, .Net e Delphi <br/>
+. Desde 2004 trabalho na [FEAGRI](https://www.feagri.unicamp.br/portal) - Faculdade de Engenharia Agrícola <br/>
+. Recomecei na Web, agora com PHP e fiquei alguns anos somente construíndo e administrando sites com [CMS Joomla] (https://www.joomla.org/)
+. Em 2016 comecei na área de Mobile Híbrido, com Intel XDK, depois fui pra Ionic/Cordova e atualmente com [Ionic/Capacitor/Angular](https://ionicframework.com/)
+. A partir de 2019 mudei minha Stack de desenvolvimento que é chamada de <b>MEAN</b> ([MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [Angular](https://angular.io/) e [NodeJS](https://nodejs.org/en/) <br/>
 . Estou estudando ReactJS e ReactNative <br/>
 . Tenho tentado colaborar em grupos com Ionic/Angular <br/>
-. Minha Stack de desenvolvimento hoje é: MEAN (MongoDB, Express, Angular e NodeJS) <br/>
 . Tenho procurado ajuda pra melhorar minhas APIs em NodeJS <br/>
-. Também sou professor de Colégio Técnico na área de TI, compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são: (MongoDB, Angular, NodeJS, Ionic, PWA, HTML, CSS, Javascript e Git ) <br/>
-. Curto minha família, assistir séries e NBA, já fui jogador um dia…rsrsrsrs <br/>
-. Comecei minha carreira com clipper em 1996 <br/>
-. Vc me encontra no twitter (@jsilvafernando) e pelo gmail jsfernando@ <br/>
+. Também sou professor de Colégio Técnico na área de TI, compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são: (MongoDB, MySQL, Firebase,  HTML, CSS, Javascript, Angular, NodeJS, Ionic, PWA e Git ) <br/>
+. Curto minha família, assistir séries, NBA e já fui jogador de basket um dia…rsrsrsrs <br/>
+
+. Vc me encontra:<br/>
+<p>
+  [<img src="https://img.shields.io/badge/-LinkedIn-blue" />](https://www.linkedin.com/in/jsfernando)
+</p>
+no twitter (@jsilvafernando), no linkedIn @jsfernando e no gmail jsfernando@ <br/>
