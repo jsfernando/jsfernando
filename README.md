@@ -14,8 +14,7 @@
 . Curto minha família, assistir séries, NBA e já fui jogador de basket um dia…rsrsrsrs <br/>
 
 . Vc me encontra:<br/>
-<p>
-  [LinkedIn](https://www.linkedin.com/in/jsfernando) <br/>
-  [twitter](https://twitter.com/jsilvafernando)
-</p>
+ [LinkedIn](https://www.linkedin.com/in/jsfernando) <br/>
+ [twitter](https://twitter.com/jsilvafernando)
+
 
