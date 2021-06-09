@@ -10,7 +10,7 @@
 . Estou estudando ReactJS e ReactNative <br/>
 . Tenho tentado colaborar em grupos com Ionic/Angular <br/>
 . Tenho procurado ajuda pra melhorar minhas APIs em NodeJS <br/>
-. Também sou professor de Colégio Técnico na área de TI no [Senac Campinas](https://www.sp.senac.br/senac-campinas), compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são: (MongoDB, MySQL, Firebase,  HTML, CSS, Javascript, Angular, NodeJS, Ionic, PWA e Git ) <br/>
+. Também sou docente na área de TI no [Senac Campinas](https://www.sp.senac.br/senac-campinas), compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são (Web e Mobile): (MongoDB, MySQL, Firebase,  HTML, CSS, Javascript, Angular, NodeJS, Ionic, PWA e Git ) <br/>
 . Curto minha família, assistir séries, NBA e já fui jogador de basket um dia…rsrsrsrs <br/>
 
 . Vc me encontra:<br/>
