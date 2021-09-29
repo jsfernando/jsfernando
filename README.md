@@ -4,7 +4,7 @@
 . Comecei minha carreira como professor de colégio técnico em informátia em 1996 <br/>
 . ...e depois como programador clipper em 1999 e passei por Visual Basic, .Net e Delphi <br/>
 . Desde 2004 trabalho na [FEAGRI](https://www.feagri.unicamp.br/portal) - Faculdade de Engenharia Agrícola <br/>
-. Recomecei na Web, agora com PHP e fiquei alguns anos somente construíndo e administrando sites com [CMS Joomla](https://www.joomla.org/) <br/>
+. Recomecei na Web, com PHP e fiquei alguns anos somente construíndo e administrando sites com [CMS Joomla](https://www.joomla.org/) <br/>
 . Em 2016 comecei na área de Mobile Híbrido, com Intel XDK, depois fui pra Ionic/Cordova e atualmente com [Ionic/Capacitor/Angular](https://ionicframework.com/)<br/>
 . A partir de 2019 mudei minha Stack de desenvolvimento que é chamada de <b>MEAN</b> ([MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [Angular](https://angular.io/) e [NodeJS](https://nodejs.org/en/)) <br/>
 . Estou estudando ReactJS e ReactNative <br/>
