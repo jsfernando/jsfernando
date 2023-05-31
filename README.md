@@ -85,6 +85,14 @@
 
 <br/>
 
+## Algumas publicações testes, nenhum projeto oficial
+<div>
+<a href="https://github.com/fernandojsilvasenac">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandojsilvasenac&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandojsilvasenac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 . Vc me encontra:<br/>
  [LinkedIn](https://www.linkedin.com/in/jsfernando) <br/>
  [twitter](https://twitter.com/jsilvafernando)
