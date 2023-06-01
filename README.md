@@ -9,7 +9,7 @@
 . A partir de 2019 mudei minha Stack de desenvolvimento que é chamada de <b>MEAN</b> ([MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [Angular](https://angular.io/) e [NodeJS](https://nodejs.org/en/)) <br/>
 . Estou estudando ReactJS/NextJS e ReactNative entre outros ...<br/>
 . Tenho refatorado bastante minhas APIs em NodeJS com o aprendizado continuo que tenho tido<br/>
-. Também sou docente na área de TI no [Senac Campinas](https://www.sp.senac.br/senac-campinas), compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são (Web e Mobile), no [final da seção](https://github.com/jsfernando/jsfernando/edit/main/README.md#ensinando-tecnologias-no-senac-campinas) estão as tecnologias que ensino. <br/>
+. Também sou docente na área de TI no [Senac Campinas](https://www.sp.senac.br/senac-campinas), compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são (Web e Mobile), no [final da seção] estão as tecnologias que ensino. <br/>
 . Curto minha família, assistir séries, NBA e já fui jogador de basket um dia…rsrsrsrs <br/>
 
 ## Atualmente trabalhando como Dev Fullstack 
