@@ -14,9 +14,7 @@
 
 ## Atualmente trabalhando como Dev Fullstack 
 <div>
-          
-![JOOMLA](https://img.shields.io/badge/-JOOMLA-05122A?style=flat&logo=joomla)
-          
+                    
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)
@@ -45,6 +43,8 @@
 ![TRELLO](https://img.shields.io/badge/-TRELLO-05122A?style=flat&logo=trello)
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)
+          
+![JOOMLA](https://img.shields.io/badge/-JOOMLA-05122A?style=flat&logo=joomla)          
           
 </div>
 
