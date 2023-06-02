@@ -114,8 +114,8 @@
 <div>
 
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)
-![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)
 ![YARN](https://img.shields.io/badge/-YARN-05122A?style=flat&logo=yarn)
+![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)
 
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visualstudiocode)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=flat&logo=figma)          
