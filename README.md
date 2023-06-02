@@ -15,6 +15,8 @@
 ## Atualmente trabalhando como Dev Fullstack 
 <div>
           
+![JOOMLA](https://img.shields.io/badge/-JOOMLA-05122A?style=flat&logo=joomla)
+          
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)
@@ -46,7 +48,7 @@
           
 </div>
 
-### Em constante desenvolvimento
+### Em aprendizado contínuo
 <div>        
           
 ![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
