@@ -39,6 +39,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>       
+          
                     
 </div>
 <div>
@@ -50,24 +53,23 @@
 
 
 ### Em constante desenvolvimento
-<div>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>             
-</div>
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+<div>        
+          
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
+![REACT NATIVE](https://img.shields.io/badge/-REACTNATIVE-05122A?style=flat&logo=react)&nbsp;
+![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=next.js)&nbsp;
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)&nbsp;
+![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=jest)          
           
 </div>
 
 ### Aprendendo Tecnologias
 
 <div>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="75" height="75"/>
+          
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python)          
 </div>
 
 ### Tenho interesse
@@ -75,11 +77,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="75" height="75"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="75" height="75"/>                              
 </div>
 
-<div>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
 
 ## Ensinando Tecnologias no Senac Campinas
 ### Curso Técnico de Informática (Qualificação Sistemas [620h] ) 
@@ -118,11 +118,12 @@
 
 <br/>
 
-## Algumas publicações testes, nenhum projeto oficial
-<div>
+## 
+<div style="display:inline_block">
 <a href="https://github.com/fernandojsilvasenac">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandojsilvasenac&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandojsilvasenac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandojsilvasenac&size_weight=0.5&count_weight=0.5&theme=dracula)](https://github.com/fernandojsilvasenac/github-readme-stats)                              
 </div>
 
 
