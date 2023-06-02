@@ -37,7 +37,7 @@
 <div>
 
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)
-![PNPM](https://img.shields.io/badge/-NNPM-05122A?style=flat&logo=pnpm)
+![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)
 ![YARN](https://img.shields.io/badge/-YARN-05122A?style=flat&logo=yarn)
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visualstudiocode)
 ![TRELLO](https://img.shields.io/badge/-TRELLO-05122A?style=flat&logo=trello)
