@@ -3,14 +3,14 @@
 
 . Comecei minha carreira como professor de colégio técnico em informátia em 1996 <br/>
 . ...e depois como programador clipper em 1999 e passei por Visual Basic, .Net e Delphi <br/>
-. Desde 2004 trabalho na [FEAGRI](https://www.feagri.unicamp.br/portal) - Faculdade de Engenharia Agrícola <br/>
-. Recomecei na Web, com PHP e fiquei alguns anos somente construíndo e administrando sites com [CMS Joomla](https://www.joomla.org/) <br/>
-. Em 2016 comecei na área de Mobile Híbrido, com Intel XDK, depois fui pra Ionic/Cordova e cheguei no [Ionic/Capacitor/Angular](https://ionicframework.com/), mas tenho prezado pelo modelo de desenvolvimento com [ReactNative](https://reactnative.dev/) / [Expo](https://expo.dev/)<br/>
+. Desde julho/2004 trabalho na [FEAGRI](https://www.feagri.unicamp.br/portal) - Faculdade de Engenharia Agrícola/Unicamp, concursado como CLT; <br/>
+. Recomecei na Web, com PHP e fiquei alguns anos somente construíndo e administrando sites com [CMS Joomla](https://www.joomla.org/); <br/>
+. Em 2016 comecei na área de Mobile Híbrido, com Intel XDK, depois fui para Ionic/Cordova e cheguei no [Ionic/Capacitor/Angular](https://ionicframework.com/); <br/>
 . A partir de 2019 mudei minha Stack de desenvolvimento que é chamada de <b>MEAN</b> ([MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [Angular](https://angular.io/) e [NodeJS](https://nodejs.org/en/)) <br/>
-. Estou estudando ReactJS/NextJS e ReactNative entre outros ...<br/>
-. Tenho refatorado bastante minhas APIs em NodeJS com o aprendizado continuo que tenho tido<br/>
+. Estou estudando Reactjs/Nextjs e ReactNative e tenho prezado pelo modelo de desenvolvimento com [ReactNative](https://reactnative.dev/) / [Expo](https://expo.dev/); <br/> 
+. Tenho refatorado bastante minhas APIs com NodeJS com o aprendizado continuo que tenho tido, mas somente com js, ainda nao migrei para typescript<br/>
 . Também sou docente na área de TI no [Senac Campinas](https://www.sp.senac.br/senac-campinas), compartilho conhecimento, pois a área é de eterno aprendizado, desenvolvimento e troca…  minhas áreas são (Web e Mobile), no [final da seção] estão as tecnologias que ensino. <br/>
-. Curto minha família, assistir séries, NBA e já fui jogador de basket um dia…rsrsrsrs <br/>
+. Amo minha família, minha esposa é Jornalista e minha filha está cursando Química na Unicamp, curto assistir séries, NBA e já fui jogador de basket um dia…rsrsrsrs <br/>
 
 ## Atualmente trabalhando como Dev Fullstack 
 <div>
