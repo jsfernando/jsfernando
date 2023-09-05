@@ -65,16 +65,18 @@
 <div>
           
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python)          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="75" height="75"/>          
+![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python) 
+![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker) 
+![KUBERNETES](https://img.shields.io/badge/-KUBERNETES-05122A?style=flat&logo=kubernetes)
 
 </div>
 
 ### Tenho interesse
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="75" height="75"/>                              
+  
+![NESTJS](https://img.shields.io/badge/-NESTJS-05122A?style=flat&logo=nestjs)
+![DJANGO](https://img.shields.io/badge/-DJANGO-05122A?style=flat&logo=django)  
+
 </div>
 
 
