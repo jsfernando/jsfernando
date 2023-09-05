@@ -66,13 +66,14 @@
           
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYHTON-05122A?style=flat&logo=python)          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="75" height="75"/>          
+
 </div>
 
 ### Tenho interesse
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="75" height="75"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="75" height="75"/>                              
 </div>
 
@@ -133,7 +134,7 @@
 ![AWS](https://img.shields.io/badge/-AMAZON%20AWS-05122A?style=flat&logo=amazonaws)
 ![GOOGLECLOUD](https://img.shields.io/badge/-GOOGLE%20CLOUD-05122A?style=flat&logo=googlecloud)
 ![MICROSOFT AZURE](https://img.shields.io/badge/-MICROSOFT%20AZURE-05122A?style=flat&logo=microsoftazure)
-![HEROKU](https://img.shields.io/badge/-HEROKU-05122A?style=flat&logo=heroku)
+
           
 </div>          
 
