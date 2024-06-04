@@ -111,6 +111,7 @@
 ![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-05122A?style=flat&logo=sequelize)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-05122A?style=flat&logo=firebase)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-05122A?style=flat&logo=mongodb)
+![SUPABASE](https://img.shields.io/badge/-SUPABASE-05122A?style=flat&logo=supabase)
           
 </div>
 
